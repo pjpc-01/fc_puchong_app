@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053989905931",
+    "firebase_url": "https://pjpcdata-d115f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pjpcdata-d115f",
+    "storage_bucket": "pjpcdata-d115f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053989905931:android:57be59297a497e0e25090e",
+        "android_client_info": {
+          "package_name": "com.pjpc.education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053989905931-j3lmqmtabutq7k632o79gkemu4c90i37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGza1teHIsRfhDQv8kdVADVC6ss6iAO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053989905931-j3lmqmtabutq7k632o79gkemu4c90i37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
